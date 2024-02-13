@@ -2,7 +2,7 @@
 
 
 <ul>
-<li> I'm currently a second-year at  <img src="RutgersW.png" alt="Rutgers" width="120" height="20"/> </li>
+<li> I'm currently a second-year at \ <div align="center"> <img src="RutgersW.png" alt="Rutgers" width="120" height="20"/> </div></li>
 </ul>
 
 I'm a sophomore at Rutgers University. I study Math and Computer Science. I'm mainly interested in Algorithms Research and, generally, Theoretical Computer Science. 
