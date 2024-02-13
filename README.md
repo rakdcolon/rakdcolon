@@ -1,10 +1,5 @@
 [![MasterHead](banner.png)]((https://github.com/rakdcolon))
 
-
-<ul>
-<li> I'm currently a second-year at <center><img src="RutgersW.png" alt="Rutgers" width="120" height="20 margin-top="1000px"/> </center> </li>
-</ul>
-
 I'm a sophomore at Rutgers University. I study Math and Computer Science. I'm mainly interested in Algorithms Research and, generally, Theoretical Computer Science. 
 This GitHub is full of classwork, projects, and notes.
 
