@@ -1,5 +1,6 @@
-# Rohan Karamel
-Hey, I'm Rohan. I'm a sophomore at Rutgers University. I study Math and Computer Science. I'm mainly interested in Algorithms Research and, generally, Theoretical Computer Science. 
+[![MasterHead](header.png)]((https://github.com/rakdcolon))
+
+I'm a sophomore at Rutgers University. I study Math and Computer Science. I'm mainly interested in Algorithms Research and, generally, Theoretical Computer Science. 
 This GitHub is full of classwork, projects, and notes.
 
 <!---
