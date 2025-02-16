@@ -1,6 +1,6 @@
 [![MasterHead](banner.png)]((https://github.com/rakdcolon))
 
-I'm a sophomore at Rutgers University. I study Math and Computer Science. I'm mainly interested in Computer Science and Applied Mathematics.
+I'm a junior at Rutgers University. I study Math and Computer Science. I'm mainly interested in Machine Learning and Systems Programming.
 This GitHub is full of classwork, projects, and notes.
 
 <h3 align="left">Socials:</h3>
