@@ -1,6 +1,7 @@
 [![MasterHead](banner.png)]((https://github.com/rakdcolon))
 
-I'm a junior at Rutgers University. I study Math and Computer Science. I'm mainly interested in Machine Learning and Systems Programming.
+I'm a senior at Rutgers University. I study Math and Computer Science. I’m a senior double major in CS & Math at Rutgers who loves working on applications of machine learning. My recent work ranges from deploying an airline‑ops ML pipeline in Azure that classifies crew‑misconnect disruptions in real time to RNN research on brain‑tissue viscoelasticity.
+
 This GitHub is full of classwork, projects, and notes.
 
 <h3 align="left">Socials:</h3>
